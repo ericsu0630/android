@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="restartButton_name">Restart</string>
+    <string name="pos0">pos0</string>
+    <string name="pos1">pos1</string>
+    <string name="pos2">pos2</string>
+    <string name="pos3">pos3</string>
+    <string name="pos4">pos4</string>
+    <string name="pos5">pos5</string>
+    <string name="pos6">pos6</string>
+    <string name="pos7">pos7</string>
+    <string name="pos8">pos8</string>
+    <string name="restart_text">Press RESTART to play again</string>
+</resources>
